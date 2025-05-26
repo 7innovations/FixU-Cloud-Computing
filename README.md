@@ -61,13 +61,6 @@ BUCKET_NAME=your-bucket-name
 
 ---
 
-## **Available Scripts**
-
-- **`npm start`**: Starts the application in production mode.
-- **`npm run start-dev`**: Starts the application in development mode with hot reloading using **nodemon**.
-- **`npm test`**: Placeholder for running tests (to be implemented).
-
----
 
 ## **Dependencies**
 
