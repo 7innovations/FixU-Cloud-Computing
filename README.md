@@ -11,8 +11,8 @@
 - **Firebase Admin SDK**: Seamless Firebase integration for authentication and data handling.
 - **JWT Authentication**: Secure user authentication using JSON Web Tokens.
 - **Axios**: Simplifies HTTP requests for API communication.
-- **dotenv**: Loads environment variables for easier configuration management.
-- **Cloud Storage**: A reliable storage solution for saving images, supporting the quotes feature with seamless integration and accessibility.
+- **Dotenv**: Loads environment variables for easier configuration management.
+- **Cloud Storage**: A reliable storage solution, supporting quoting features with seamless integration and accessibility.
 
 ---
 
