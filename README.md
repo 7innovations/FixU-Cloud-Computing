@@ -1,6 +1,6 @@
 # **FixU Cloud Computing**
 
-**Fixu Cloud Computing** is a Node.js application built with Express, MySQL, Firebase, and other robust dependencies to deliver comprehensive cloud computing services. Designed for cloud-based environments, the application provides features like authentication, database management, and API handling.
+**FixU Cloud Computing** is a Node.js application built with Express, MySQL, Firebase, and other robust dependencies to deliver comprehensive cloud computing services. Designed for cloud-based environments, the application provides features like authentication, database management, and API handling.
 
 ---
 
