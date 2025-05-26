@@ -60,27 +60,3 @@ BUCKET_NAME=your-bucket-name
   ```
 
 ---
-
-
-## **Dependencies**
-
-### Core Dependencies
-| Dependency       | Version  |
-|-------------------|----------|
-| **axios**         | 1.7.8   |
-| **dotenv**        | 16.4.5  |
-| **express**       | 4.21.1  |
-| **firebase-admin**| 13.0.1  |
-| **jsonwebtoken**  | 9.0.2   |
-| **mysql2**        | 3.11.4  |
-| **cloud storage** | 7.14.0  |
-
-### Development Dependencies
-| Dependency       | Version  |
-|-------------------|----------|
-| **@eslint/js**    | 9.15.0  |
-| **eslint**        | 9.15.0  |
-| **globals**       | 15.12.0 |
-| **nodemon**       | 3.1.7   |
-
----
